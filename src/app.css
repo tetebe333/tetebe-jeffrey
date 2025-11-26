@@ -1,0 +1,53 @@
+@import 'tailwindcss';
+
+
+
+
+/* typing animation */
+@keyframes typing {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
+
+@keyframes blink {
+  0%, 100% { border-right-color: transparent; }
+  50% { border-right-color: black; }
+}
+
+@theme {
+    --font-weight-mybold: 540; 
+    --color-silver: #BBBAB9;
+    --color-paleSlate: #A9B2BF;
+    --color-blackO: rgba(0, 0, 0, 01);
+    --spacing-800: 800px;
+    --spacing-1150: 1150px;
+    --color-gryO: rgba(81, 81, 81, 0.5); 
+    --color-gryOO:rgba(128, 128, 128, 0.5); 
+    --spacing-900: 900px;
+    --spacing-90%: 90%;
+    --spacing-80%: 80%;
+    --spacing-95%: 95%;
+    --spacing-100%: 100%;
+    --text-xxs: 0.70rem;
+    --color-white-o: rgba(255, 255, 255, 0.2);
+
+
+    @keyframes fadeSlideIn {
+        from {
+        opacity: 0;
+        transform: translateY(20px);
+        }
+        to {
+        opacity: 1;
+        transform: translateY(0);
+        }
+    }   
+    --animate-fadeSlideIn: fadeSlideIn 1.8s ease-out forwards;
+}
+
+.btn{
+    @apply border font-mybold rounded-full text-sm px-3 py-2;
+}
+.sbtn{
+    @apply border font-mybold rounded-full text-sm px-5 sm:px-3 md:px-5 py-2;
+}
