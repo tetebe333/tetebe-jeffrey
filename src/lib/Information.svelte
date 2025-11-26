@@ -54,7 +54,7 @@
           <img class="w-6 h-6 mx-auto" src="https://img.icons8.com/ios-filled/50/FFFFFF/prize.png" alt="">
           <h1 class="font-bold text-center">Experience</h1>
           <p class="text-center">1 year</p>
-          <p class="text-center">Frontend Developmenty</p>
+          <p class="text-center">Frontend Development</p>
         </div>
 
         <div class="border py-3 rounded-2xl w-full sm:mx-0 mx-auto m-6 sm:my-0">
@@ -64,7 +64,7 @@
           <p class="text-center">Teqpace Lagos</p>
         </div>
       </div>
-      <p class="sm:mx-0 mx-auto w-full">My name is Tetebe Jeffrey am a one year experience Frontend Developer. Am from Warri Delta State, but currently base on Lagos Nigeria, I schooled out Domdomingos college warri, and currently studing programming at Teqpace Lagos</p>
+      <p class="sm:mx-0 mx-auto w-full">My name is Tetebe Jeffrey, i have 1 year experience of Frontend Development. I'm from Warri Delta State, but currently base in Lagos Nigeria, I schooled at Domdomingos college warri, and I'm currently studing programming at Teqpace Lagos</p>
 
     </div> 
   </div>
