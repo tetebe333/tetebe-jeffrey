@@ -68,11 +68,11 @@
 
         <div class="flex gap-5 mt-5 justify-center animate-bounce">
             <a href="https://www.linkedin.com/in/tetebe-jeffrey-974b2a284/" target="_blank">
-                <img class="w-7 h-7 rounded-full" src="src/lib/assets/icons8-linkedin-50.png" alt="">
+                <img class="w-7 h-7 rounded-full" src="https://img.icons8.com/ios-glyphs/30/1A1A1A/linkedin.png" alt="">
             </a>
 
             <a href="https://github.com/tetebe333" target="_blank">
-                <img class="w-7 h-7 rounded-full" src="src/lib/assets/icons8-github.svg" alt="github">
+                <img class="w-7 h-7 rounded-full" src="https://img.icons8.com/ios-filled/50/1A1A1A/github.png" alt="github">
             </a>
         </div>
     </div>
