@@ -33,11 +33,11 @@
 
             {#if menustate}
                 <button  onclick={menuFunction} class="block sm:hidden">
-                    <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/1A1A1A/menu--v6.png" alt=""> 
+                    <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/FFFFFF/menu--v6.png" alt=""> 
                 </button>
             {:else} 
             <button onclick={menuFunction} class="" >
-                <img width="40" height="40" src="https://img.icons8.com/pulsar-line/48/1A1A1A/cancel.png" alt="">
+                <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/cancel.png" alt="">
             </button> 
                 
             {/if}    
