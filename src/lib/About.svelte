@@ -54,7 +54,7 @@
 
         <div class="mt-3 flex gap-2 justify-center ">
             <div class="transform hover:scale-112 transition ease-out duration-300">
-              <a class="btn bg-black text-gray-300 border-none  hover:duration-400 hover:ease-in" href="https://wa.me/2349164041789" target="_blank">
+              <a class="btn bg-black text-gray-300 border-none  hover:duration-400 hover:ease-in" href="https://wa.me/2349164041789?text=Hi Jeff I saw you Portfolio Website, and I wanted to discuss with you" target="_blank">
                 <img class="inline mb-1 h-5" src="https://img.icons8.com/ios-glyphs/30/40C057/whatsapp.png" alt="">
                 WhatsApp</a>
             </div>
