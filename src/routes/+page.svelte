@@ -19,7 +19,7 @@
 <main class="font-sans">
 
     <!-- Profile Section -->
-    <div class="bg-gryOO py-5">
+    <div class="bg-gryO py-5 fixed w-full z-100">
         <div class="flex justify-between text-gray-300 font-mybold w-80% max-w-800 mx-auto">
             <h1 class="sm:text-lg  font-bold text-2xl">
                 Tetebe Jeffrey
