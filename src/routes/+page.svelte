@@ -48,10 +48,10 @@
         <div class="fixed z-999 top-17.5 w-full flex justify-center sm:hidden bg-gryO" transition:fly={{ x: 100, duration: 800, easing: cubicOut }} >
             <div class="flex flex-col gap-5 p-5 text-gray-300 font-mybold rounded-xl ">
         
-                <a onclick={menuFunction} href="#about">About</a>
-                <a onclick={menuFunction} href="#experience">Experience</a>
-                <a onclick={menuFunction} href="#projects">Projects</a>
-                <a onclick={menuFunction} href="#contact">Contact</a>        
+                <a class="text-center" onclick={menuFunction} href="#about">About</a>
+                <a class="text-center" onclick={menuFunction} href="#experience">Experience</a>
+                <a class="text-center" onclick={menuFunction} href="#projects">Projects</a>
+                <a class="text-center" onclick={menuFunction} href="#contact">Contact</a>        
             </div>
         </div>
         {/if} 
