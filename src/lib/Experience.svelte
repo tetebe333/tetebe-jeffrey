@@ -89,7 +89,7 @@
     </div>
 
     <div class="border-2 sm:mt-0 rounded-2xl w-full mt-5 p-5">
-      <h2 class="text-center">Framework & Libry</h2>
+      <h2 class="text-center">Framework & Library</h2>
 
       
       <div class="mt-4 grid-cols-2 grid gap-4">

@@ -44,15 +44,15 @@
     <h1 class="font-bold text-2xl text-center">Contact me</h1>
 </div>
 
-<div class="flex gap-2 border mx-auto p-5 rounded-3xl mb-8 justify-between sm:w-96">
-  <div class="flex items-center gap-1.5">
+<div class="flex flex-col sm:flex-row gap-3 border mx-auto p-5 rounded-3xl mb-8 sm:justify-between sm:w-99">
+  <div class="flex justify-center items-center gap-1.5">
     <img class="h-5" src="https://img.icons8.com/small/16/FFFFFF/filled-message.png" alt="">
     <a class="" href="mailto:tetebejeffrey@gmail.com" target="_blank">tetebejeffrey@gmail.com</a>
   </div>
 
-  <div class="flex items-center gap-1.5">
-    <img class="h-5" src="https://img.icons8.com/small/16/FFFFFF/filled-message.png" alt="">
-    <a href="https://www.linkedin.com/in/tetebe-jeffrey-974b2a284/" target="_blank">linkin</a>
+  <div class="flex justify-center items-center gap-1.5">
+    <img class="h-5" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin.png" alt="">
+    <a href="https://www.linkedin.com/in/tetebe-jeffrey-974b2a284/" target="_blank">linkedIn</a>
   </div>
 </div>
 
