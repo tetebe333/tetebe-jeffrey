@@ -39,17 +39,17 @@
   class="transition-all duration-700"
 >
 
-<div class="mt-20 sm:flex justify-center items-center gap-10 text-gray-1000">
+<div class="mt-20 sm:flex justify-center items-center gap-10 text-gray-300">
     <div class="flex justify-center sm:block">
       <img class="w-60 h-60 rounded-full flex justify-center" src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/557268973_817885864115047_1685238674857542363_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH7BbyKbf9gbgL7gtr6N5GFAQEX4KwMFCwBARfgrAwULDx61PBj7kCAtSDSV1RCICdy5W8EYfhoON0Anqhg8yjJ&_nc_ohc=7ey5hXZMdZAQ7kNvwH5-rvC&_nc_oc=AdmJIHe6FfrvpQO9_t8PpWRBBNIwA1OE3ewqxS7Z6G1FlveQ88wxiUwLR8skuFClrRE&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=XU9OkUyyWeVHBurWUI6e3A&oh=00_Afj7N60dY54fLg7DaUZIWiq9hzI2aklvsIIUIy7l8Ebylw&oe=69295E10" alt="my phyto">
     </div>
 
     <div class="text-center mt-6 sm:mt-0">
         <p class="font-mybold text-xs">Hello I'm</p>
-        <h1 class="font-bold text-2xl text-black">Tetebe Jeffrey</h1>
+        <h1 class="font-bold text-2xl text-gray-300">Tetebe Jeffrey</h1>
         
         <div class="flex justify-center">
-          <p class="font-mybold text-lg w-45"><span class="inline-block overflow-hidden whitespace-nowrap border-r-3 border-black animate-[typing_3s_steps(18,end)_infinite_alternate]">Frontend Developer</span><span class="animate-[blink_3s_step-end_infinite] h-full"></span></p>
+          <p class="font-mybold text-lg w-45"><span class="inline-block overflow-hidden whitespace-nowrap border-r-3 bordertext-gray-300 animate-[typing_3s_steps(18,end)_infinite_alternate]">Frontend Developer</span><span class="animate-[blink_3s_step-end_infinite] h-full"></span></p>
         </div>
 
         <div class="mt-3 flex gap-2 justify-center ">

@@ -20,7 +20,7 @@
 
     <!-- Profile Section -->
     <div class="bg-gryOO py-5">
-        <div class="flex justify-between text-black font-mybold w-80% max-w-800 mx-auto">
+        <div class="flex justify-between text-gray-300 font-mybold w-80% max-w-800 mx-auto">
             <h1 class="sm:text-lg  font-bold text-2xl">
                 Tetebe Jeffrey
             </h1>
@@ -33,11 +33,11 @@
 
             {#if menustate}
                 <button  onclick={menuFunction} class="block sm:hidden">
-                    <img width="30" height="30" src="src/lib/assets/menu-hamburger-svgrepo-com.svg" alt=""> 
+                    <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/1A1A1A/menu--v6.png" alt=""> 
                 </button>
             {:else} 
             <button onclick={menuFunction} class="" >
-                <img width="30" height="30" src="src/lib/assets/cancel-20px-svgrepo-com.svg" alt="">
+                <img width="40" height="40" src="https://img.icons8.com/pulsar-line/48/1A1A1A/cancel.png" alt="">
             </button> 
                 
             {/if}    
@@ -46,7 +46,7 @@
 
         {#if !menustate}
         <div class="absolute z-999 top-17.5 w-full flex justify-center sm:hidden bg-gryO" transition:fly={{ x: 100, duration: 800, easing: cubicOut }} >
-            <div class="flex flex-col gap-5 p-5 text-black font-mybold rounded-xl ">
+            <div class="flex flex-col gap-5 p-5 text-gray-300 font-mybold rounded-xl ">
         
                 <a onclick={menuFunction} href="#about">About</a>
                 <a onclick={menuFunction} href="#experience">Experience</a>
