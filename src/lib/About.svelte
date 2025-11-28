@@ -41,7 +41,7 @@
 
 <div class=" mt-30  sm:flex justify-center items-center gap-10 text-gray-300">
     <div class="flex justify-center sm:block">
-      <img class="w-60 h-60 rounded-full flex justify-center" src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/557268973_817885864115047_1685238674857542363_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH7BbyKbf9gbgL7gtr6N5GFAQEX4KwMFCwBARfgrAwULDx61PBj7kCAtSDSV1RCICdy5W8EYfhoON0Anqhg8yjJ&_nc_ohc=7ey5hXZMdZAQ7kNvwH5-rvC&_nc_oc=AdmJIHe6FfrvpQO9_t8PpWRBBNIwA1OE3ewqxS7Z6G1FlveQ88wxiUwLR8skuFClrRE&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=XU9OkUyyWeVHBurWUI6e3A&oh=00_Afj7N60dY54fLg7DaUZIWiq9hzI2aklvsIIUIy7l8Ebylw&oe=69295E10" alt="my phyto">
+      <img class="w-60 h-60 rounded-full" src="https://media.licdn.com/dms/image/v2/D4D03AQGbRKYFPNxuLg/profile-displayphoto-crop_800_800/B4DZmlOAnXKQAM-/0/1759413540107?e=1766016000&v=beta&t=2JnJsVy6YGDFveaEDjPk3zyx1CHtWQtrqDU4092Zz_I" alt="my phyto">
     </div>
 
     <div class="text-center mt-6 sm:mt-0">
