@@ -16,14 +16,20 @@
     }
 
  </script>
-<main class="font-sans">
+<main id="home" class="font-sans">
 
     <!-- Profile Section -->
     <div class="bg-gryO py-5 fixed w-full z-100">
         <div class="flex justify-between text-gray-300 font-mybold w-80% max-w-800 mx-auto">
-            <h1 class="sm:text-lg  font-bold text-2xl">
+            {#if !menustate}
+            <a href="#home"  class="sm:text-lg  font-bold text-2xl" onclick={menuFunction}>
+                Tetebe Jeffrey
+            </a>
+            {:else}
+             <h1  class="sm:text-lg  font-bold text-2xl">
                 Tetebe Jeffrey
             </h1>
+            {/if}
             <div class="gap-4 text-sm hidden sm:flex">
                 <a href="#about">About</a>
                 <a href="#experience">Experience</a>
