@@ -45,7 +45,7 @@
 
   <div class="sm:grid flex flex-col  grid-cols-3 gap-5 float-left mt-10">
     <div>
-      <img class=" h-73  w-70 sm:w-70 sm:h-60 rounded-2xl shadow-xl/20 sm:mx-0 mx-auto" src="https://media.licdn.com/dms/image/v2/D4D22AQGBYsnVFWUYvQ/feedshare-shrink_2048_1536/B4DZq3nT7aHsAw-/0/1764017135233?e=1765411200&v=beta&t=dTDC11t3SqGailoHWLfu8QjGhUAa1kzktxn9reCd-0I" alt="">
+      <img class=" h-77 md:h-70  w-70 sm:w-70 sm:h-60 rounded-2xl shadow-xl/20 sm:mx-0 mx-auto" src="https://media.licdn.com/dms/image/v2/D4D22AQHPnGlbJsP2IQ/feedshare-shrink_2048_1536/B4DZxvxfXzHIAk-/0/1771401770869?e=1773273600&v=beta&t=PpRBbv9BeJqn6OjVOmddEmz-qJbh461_y6XHmD4ImtE" alt="">
     </div>
 
     <div class="col-span-2 ">

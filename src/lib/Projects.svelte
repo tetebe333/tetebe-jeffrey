@@ -46,7 +46,7 @@
 
 <div class="sm:grid-cols-3 grid-cols-1 gap-4 grid">
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQGoRZD0lr-vxQ/feedshare-shrink_1280/B4DZq7pmqEJEAs-/0/1764084839759?e=1765411200&v=beta&t=VHggU1mqTkx18cVLB94d6hRks4vQZMmW4r_t7z2kwho" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQGoRZD0lr-vxQ/feedshare-shrink_1280/B4DZq7pmqEJEAs-/0/1764084839759?e=1773273600&v=beta&t=AsrOdI2JDLhy1P50W1OZMIaaOqTOgT_SGV9Kmq_eC8I" alt="">
       <h1 class="text-center font-bold my-3 text-lg">Project One</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeffrey-blacklist" target="_blank">Github</a>
@@ -55,7 +55,7 @@
   </div>
 
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVI91OZxoIHg/feedshare-shrink_1280/B4DZq7pmonJAAs-/0/1764084840252?e=1765411200&v=beta&t=AJ8MA0jqK2hos3dEUHgQ90ASH8U-adt3EfYygRo6Hug" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVI91OZxoIHg/feedshare-shrink_1280/B4DZq7pmonJAAs-/0/1764084840252?e=1773273600&v=beta&t=rYNsrm-2nJOS4iGXpH7Dw6p8sqf4JDe33G-RT4aSmSs" alt="">
       <h1 class="text-center font-bold my-3 text-lg">Project Two</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeff-contact" target="_blank">Github</a>
@@ -64,7 +64,7 @@
   </div>
 
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVZBIuVjTpug/feedshare-shrink_2048_1536/B4DZq7pm2qIAAw-/0/1764084839888?e=1765411200&v=beta&t=IIlbEGnAdPyU96WWzq6CxJPeSgAFtC4baL7nKEgAzp4" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVZBIuVjTpug/feedshare-shrink_2048_1536/B4DZq7pm2qIAAw-/0/1764084839888?e=1773273600&v=beta&t=VBVtpzlHDmMn-kSD1xLx2TEQx0ZgZOfagoxuftGs_zs" alt="">
       <h1 class="text-center font-bold my-3 text-lg">Project Three</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeff-invoice" target="_blank">Github</a>
