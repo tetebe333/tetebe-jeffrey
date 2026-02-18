@@ -26,9 +26,9 @@
                 Tetebe Jeffrey
             </a>
             {:else}
-             <h1  class="sm:text-lg  font-bold text-2xl">
+             <a href="#home" class="sm:text-lg  font-bold text-2xl">
                 Tetebe Jeffrey
-            </h1>
+            </a>
             {/if}
             <div class="gap-4 text-sm hidden sm:flex">
                 <a href="#about">About</a>
