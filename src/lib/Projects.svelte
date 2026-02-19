@@ -55,7 +55,7 @@
   </div>
 
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVI91OZxoIHg/feedshare-shrink_1280/B4DZq7pmonJAAs-/0/1764084840252?e=1773273600&v=beta&t=rYNsrm-2nJOS4iGXpH7Dw6p8sqf4JDe33G-RT4aSmSs" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQFDWxjqpGy43A/feedshare-shrink_1280/B4DZx1vPQJGQAc-/0/1771501843795?e=1773273600&v=beta&t=w3oFNdhCqFKp_pSVXfLHXeny1knYlgfScAgcMg1Ya1w" alt="">
       <h1 class="text-center font-bold my-3 text-lg">Project Two</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeff-contact" target="_blank">Github</a>

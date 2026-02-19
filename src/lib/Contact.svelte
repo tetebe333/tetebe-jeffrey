@@ -56,7 +56,7 @@
       <a href="https://www.linkedin.com/in/tetebe-jeffrey-974b2a284/" target="_blank">linkedIn</a>
     </div>
 
-    <div class="flex sm:justify-start justify-center gap-1.5 sm:ms-0 ms-3">
+    <div class="flex justify-center items-center gap-1.5 ms-3 sm:ms-0">
       <img class="h-5" src="https://img.icons8.com/?size=100&id=85126&format=png&color=FFFFFF" alt="">
       <a href="https://www.facebook.com/jeffsam24" target="_blank">Facebook</a>
     </div>
