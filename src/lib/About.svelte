@@ -41,7 +41,7 @@
 
 <div class=" mt-30  sm:flex justify-center items-center gap-10 text-gray-300">
     <div class="flex justify-center sm:block">
-      <img class="w-60 h-60 rounded-full" src="http://localhost:5173/src/lib/assets/ochuko.jpeg" alt="my phyto">
+      <img class="w-60 h-60 rounded-full" src="https://media.licdn.com/dms/image/v2/D4E22AQGodVxJciZZsQ/feedshare-shrink_800/B4EZ2Hy1efHcAc-/0/1776099744138?e=1777507200&v=beta&t=2vS5EnE2V5JF5DAnfbFA46r5HbduKkeqBWSgHO5tC2E" alt="my phyto">
     </div>
 
     <div class="text-center mt-6 sm:mt-0">
