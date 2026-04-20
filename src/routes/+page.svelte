@@ -6,8 +6,8 @@
     import Contact from "../lib/Contact.svelte";
     import Foolter from "../lib/Foolter.svelte";
 
-    import { fly, fade } from 'svelte/transition';
-    import { cubicOut, cubicIn } from 'svelte/easing';
+    import { fly} from 'svelte/transition';
+    import { cubicOut} from 'svelte/easing';
 
     let menustate= $state(true)
 

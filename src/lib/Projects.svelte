@@ -44,13 +44,13 @@
     <h1 class="font-bold text-2xl text-gray-300 text-center">Projects</h1>
 </div>
 
-<div class="sm:grid-cols-3 grid-cols-1 gap-4 grid">
+<div class="sm:grid-cols-2 grid-cols-1 gap-4 grid">
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQGoRZD0lr-vxQ/feedshare-shrink_480/B4DZq7pmqEJEAY-/0/1764084839789?e=1777507200&v=beta&t=QGNJazaKdvrcbc0Db-fUeTAoMRLlquRQyqsg-NzySMA" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4E22AQEN4bdCfrjIfQ/feedshare-shrink_2048_1536/B4EZ2q2SR8IcAg-/0/1776687850954?e=1778112000&v=beta&t=JI4JkKIH1jmz9wJI4hx5Vn-NlHACA5o5EMTNOHey76A" alt="">
       <h1 class="text-center font-bold my-3 text-lg">Project One</h1>
       <div class="flex justify-center gap-3">
-        <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeffrey-blacklist" target="_blank">Github</a>
-        <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://jeffrey-blacklist.vercel.app/" target="_blank">Veiw</a>
+        <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/note-keeping" target="_blank">Github</a>
+        <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://jeff-notekeeping.vercel.app/" target="_blank">Veiw</a>
       </div>
   </div>
 
@@ -63,12 +63,26 @@
       </div>
   </div>
 
+</div>
+
+
+<div class="sm:grid-cols-2 grid-cols-1 gap-4 grid mt-4">
+
   <div class="border w-full rounded-2xl py-6 px-3">
       <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVZBIuVjTpug/feedshare-shrink_480/B4DZq7pm2qIAAY-/0/1764084839884?e=1777507200&v=beta&t=JSwAqgpc0wj7v5aQAMaWJNvlhjOpksiEijeE36BZPDA" alt="">
       <h1 class="text-center font-bold my-3 text-lg">Project Three</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeff-invoice" target="_blank">Github</a>
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://jeff-invoice.vercel.app/" target="_blank">Veiw</a>
+      </div>
+  </div>
+
+  <div class="border w-full rounded-2xl py-6 px-3">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQGoRZD0lr-vxQ/feedshare-shrink_480/B4DZq7pmqEJEAY-/0/1764084839789?e=1777507200&v=beta&t=QGNJazaKdvrcbc0Db-fUeTAoMRLlquRQyqsg-NzySMA" alt="">
+      <h1 class="text-center font-bold my-3 text-lg">Project Four</h1>
+      <div class="flex justify-center gap-3">
+        <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeffrey-blacklist" target="_blank">Github</a>
+        <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://jeffrey-blacklist.vercel.app/" target="_blank">Veiw</a>
       </div>
   </div>
 </div>
