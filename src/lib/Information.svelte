@@ -46,7 +46,7 @@
 
   <div class="sm:grid flex flex-col  grid-cols-3 gap-5 float-left mt-10">
     <div>
-      <img class=" h-88 md:h-70  w-70 sm:w-70 sm:h-60 rounded-2xl shadow-xl/20 sm:mx-0 mx-auto" src={coding} alt="Coding">
+      <img class=" h-88 md:h-84  w-70 sm:w-70 sm:h-60 rounded-2xl shadow-xl/20 sm:mx-0 mx-auto" src={coding} alt="Coding">
     </div>
 
     <div class="col-span-2 ">
