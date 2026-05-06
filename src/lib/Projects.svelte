@@ -1,5 +1,9 @@
 <script lang="ts">
  import { onMount } from 'svelte';
+ import project1 from '$lib/assets/project1.jpg';
+  import project2 from '$lib/assets/project2.jpg';
+  import project3 from '$lib/assets/project3.jpg';
+  import project4 from '$lib/assets/project4.jpg';
   let containerElement: HTMLElement;
   let isIntersecting = false;  
 
@@ -46,7 +50,7 @@
 
 <div class="sm:grid-cols-2 grid-cols-1 gap-4 grid">
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4E22AQEN4bdCfrjIfQ/feedshare-shrink_2048_1536/B4EZ2q2SR8IcAg-/0/1776687850954?e=1778112000&v=beta&t=JI4JkKIH1jmz9wJI4hx5Vn-NlHACA5o5EMTNOHey76A" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src={project1} alt="Project 1">
       <h1 class="text-center font-bold my-3 text-lg">Project One</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/note-keeping" target="_blank">Github</a>
@@ -55,7 +59,7 @@
   </div>
 
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQFDWxjqpGy43A/feedshare-shrink_800/B4DZx1vPQJGQAg-/0/1771501843794?e=1777507200&v=beta&t=1QWB8GG4ljWAcSu1oAlz3aXrbc71wciIhuUdXZeSZc4" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src={project2} alt="Project 2">
       <h1 class="text-center font-bold my-3 text-lg">Project Two</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeff-contact" target="_blank">Github</a>
@@ -69,7 +73,7 @@
 <div class="sm:grid-cols-2 grid-cols-1 gap-4 grid mt-4">
 
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQHVZBIuVjTpug/feedshare-shrink_480/B4DZq7pm2qIAAY-/0/1764084839884?e=1777507200&v=beta&t=JSwAqgpc0wj7v5aQAMaWJNvlhjOpksiEijeE36BZPDA" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src={project3} alt="Project 3">
       <h1 class="text-center font-bold my-3 text-lg">Project Three</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeff-invoice" target="_blank">Github</a>
@@ -78,7 +82,7 @@
   </div>
 
   <div class="border w-full rounded-2xl py-6 px-3">
-      <img class="w-50 h-50 mx-auto rounded-3xl" src="https://media.licdn.com/dms/image/v2/D4D22AQGoRZD0lr-vxQ/feedshare-shrink_480/B4DZq7pmqEJEAY-/0/1764084839789?e=1777507200&v=beta&t=QGNJazaKdvrcbc0Db-fUeTAoMRLlquRQyqsg-NzySMA" alt="">
+      <img class="w-50 h-50 mx-auto rounded-3xl" src={project4} alt="Project 4">
       <h1 class="text-center font-bold my-3 text-lg">Project Four</h1>
       <div class="flex justify-center gap-3">
         <a class="sbtn hover:text-black hover:bg-white hover:duration-400 hover:ease-in" href="https://github.com/tetebe333/jeffrey-blacklist" target="_blank">Github</a>

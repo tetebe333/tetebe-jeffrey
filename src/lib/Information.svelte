@@ -1,5 +1,6 @@
 <script lang="ts">
  import { onMount } from 'svelte';
+ import coding from '$lib/assets/coding.jpeg';
   let containerElement: HTMLElement;
   let isIntersecting = false;  
 
@@ -45,7 +46,7 @@
 
   <div class="sm:grid flex flex-col  grid-cols-3 gap-5 float-left mt-10">
     <div>
-      <img class=" h-77 md:h-70  w-70 sm:w-70 sm:h-60 rounded-2xl shadow-xl/20 sm:mx-0 mx-auto" src="https://media.licdn.com/dms/image/v2/D4D22AQHPnGlbJsP2IQ/feedshare-shrink_480/B4DZxvxfXzHIAo-/0/1771401770869?e=1777507200&v=beta&t=HrlKmewiRI5EFkWuURAttwsmyOd2xfmjaB3EbaqoYvE" alt="">
+      <img class=" h-77 md:h-70  w-70 sm:w-70 sm:h-60 rounded-2xl shadow-xl/20 sm:mx-0 mx-auto" src={coding} alt="Coding">
     </div>
 
     <div class="col-span-2 ">
