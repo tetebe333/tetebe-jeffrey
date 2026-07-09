@@ -86,6 +86,47 @@
             </div>
           </div>
       </div>
+
+      <hr class="my-5 border-gray-300">
+      <h2 class="text-center my-5">Moble Dev/Backend</h2>
+      <div class="mt-4 grid-cols-2 grid gap-4">
+          <div >  
+
+            <div class="flex items-center gap-3 justify-center">
+              <img class="w-3 h-3" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/verified-account--v1.png" alt="">
+              <div>
+                <h1 class="font-bold text-sm">Flutter</h1>
+                <p class="text-xs">Experienced</p>
+              </div>
+            </div>
+
+            <div class="flex items-center gap-3 mt-3 justify-center ">
+              <img class="w-3 h-3" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/verified-account--v1.png" alt="">
+              <div>
+                <h1 class="font-bold text-sm">FireBase🔥</h1>
+                <p class="text-xs">Experienced</p>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex items-center gap-3 mt-0 sm:mt-0 justify-center">
+              <img class="w-3 h-3" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/verified-account--v1.png" alt="">
+              <div>
+                <h1 class="font-bold text-sm">Dart</h1>
+                <p class="text-xs">Experienced</p>
+              </div>
+            </div>
+
+            <div class="flex items-center gap-3 mt-3 justify-center">
+              <img class="w-3 h-3" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/verified-account--v1.png" alt="">
+              <div>
+                <h1 class="font-bold text-sm">Cloud Functions</h1>
+                <p class="text-xs">Experienced</p>
+              </div>
+            </div>
+          </div>
+      </div>
     </div>
 
     <div class="border-2 sm:mt-0 rounded-2xl w-full mt-5 p-5">

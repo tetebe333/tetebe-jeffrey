@@ -49,9 +49,14 @@
         <p class="font-mybold text-xs">Hello I'm</p>
         <h1 class="font-bold text-2xl text-gray-300">Tetebe Jeffrey</h1>
         
-        <div class="flex justify-center">
-          <p class="font-mybold text-lg w-45"><span class="inline-block overflow-hidden whitespace-nowrap border-r-3 bordertext-gray-300 animate-[typing_3s_steps(18,end)_infinite_alternate]">Frontend Developer</span><span class="animate-[blink_3s_step-end_infinite] h-full"></span></p>
-        </div>
+    <div class="flex justify-center">
+        <p class="font-mybold text-lg w-fit">
+          <span class="inline-block overflow-hidden whitespace-nowrap border-r-3 border-gray-300 animate-[typing_4s_steps(19,end)_infinite_alternate]">
+            Mobile/Web Developer       g
+          </span>
+        </p>
+    </div>
+
 
         <div class="mt-3 flex gap-2 justify-center ">
             <div class="transform hover:scale-112 transition ease-out duration-300">

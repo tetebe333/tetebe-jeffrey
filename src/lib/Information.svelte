@@ -65,7 +65,7 @@
           <p class="text-center">Teqpace Lagos</p>
         </div>
       </div>
-      <p class="sm:mx-0 mx-auto w-full">My name is Tetebe Jeffrey, i have 1 year experience of Frontend Development. I'm from Warri Delta State, but currently base in Lagos Nigeria, I schooled at Domdomingos college warri, and I'm currently studing programming at Teqpace Lagos</p>
+      <p class="sm:mx-0 mx-auto w-full">My name is Tetebe Jeffrey, i have 1 year experience of Software Development. I'm from Warri Delta State, but currently base in Lagos Nigeria, I schooled at Domdomingos college warri, and I'm currently studing programming at Teqpace Lagos</p>
 
     </div> 
   </div>
